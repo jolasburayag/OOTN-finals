@@ -1,0 +1,38 @@
+body{
+	font-family: "Ubuntu";
+}
+
+nav {
+	background-color: #2234bb;
+	margin-bottom: 25px;
+}
+
+.nav-pills > li > a{
+	border-radius: 0;
+	color: #fff;
+	font-weight: 500;
+	transition: background-color .5s;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover {
+	background-color: #ffd200;
+}
+.nav-pills > li > a:focus, .nav-pills > li > a:hover{
+	background-color: #001d66;
+}
+
+.btn {
+	border-radius: 0;
+	background-color: #2234bb;
+	color: #fff;
+	transition: background-color .5s;
+}
+
+.btn:hover {
+	background-color: #ffd200;
+	color: #2234bb;
+}
+
+.panel-primary > .panel-heading {
+		background-color: #2234bb;
+}
