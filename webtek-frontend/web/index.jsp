@@ -19,7 +19,8 @@
         <link rel="shortcut icon" href="images/logo.ico">
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/font-awesome.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="css/custom.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        
     </head>
     
     <body>
@@ -50,7 +51,7 @@
                         </div>
                       </div>
                       <div class="col-md-5 col-md-5">
-                        <img src="images/carousel-image.jpg" class="car-img" alt="carousel-bg-image" />
+                        <img src="images/carousel-image.png" class="car-img" alt="carousel-bg-image" />
                       </div>
                     </div>
                   </div>
@@ -76,17 +77,17 @@
                         </div>
                       </div>
                       <div class="col-md-5 col-md-5">
-                        <img src="images/carousel-image.jpg" class="car-img" alt="carousel-bg-image" />
+                        <img src="images/carousel-image.png" class="car-img" alt="carousel-bg-image" />
                       </div>
                     </div>
                   </div>
                   <!-- end of items -->
                 </div>
               </div>
-              <button class="left carousel-control btn" href="#myCarousel" data-slide="prev">
+              <button class="left carousel-control car-ctrl btn" href="#myCarousel" data-slide="prev">
                 ‹
               </button>
-              <button class="right carousel-control btn" href="#myCarousel" data-slide="next">
+              <button class="right carousel-control car-ctrl btn" href="#myCarousel" data-slide="next">
                 ›
               </button>
             </div>

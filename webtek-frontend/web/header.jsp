@@ -15,14 +15,14 @@
         <link rel="shortcut icon" href="images/logo.ico">
         <link href="css/bootstrap.css" rel="stylesheet">
         <link href="css/font-awesome.css" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="css/custom.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
     </head>
     
     <body>
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <img src="images/logo.png" alt="Site-Logo"/>
+                    <img src="images/site-logo.png" alt="Site-Logo"/>
                 </div>
             </div>
         </div>
